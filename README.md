@@ -1,7 +1,7 @@
-# AluraPic
+# 📷 AluraPic
 
-Project created in the training of angular of alura.<br>
-Project of a website for photo posting.
+📚 Project created in the training of angular of alura.<br>
+📚 Project of a website for photo posting.
 ## How to init ?
 
 Start client side
@@ -41,3 +41,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## 🛠️ Project running requirements:
+API: Run with Node version 8.0.0
+Frontend: Run with Node version 12.19.0

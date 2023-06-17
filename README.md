@@ -1,6 +1,6 @@
 # AluraPic
 
-Project created in the training of angular of alura
+Project created in the training of angular of alura.<br>
 Project of a website for photo posting.
 ## How to init ?
 

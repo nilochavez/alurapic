@@ -11,6 +11,7 @@ Start client side
 Start API
 
     cd api
+    npm install
     npm start
 
 # Login

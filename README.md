@@ -10,7 +10,7 @@ Start client side
 
 Start API
 
-    cd _api
+    cd api
     npm start
 
 # Login
